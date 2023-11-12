@@ -1,0 +1,210 @@
+{
+  "Music1":{
+    "name": "our Father",
+    "artist name": "Don Moen",
+    "genre": "Gospel",
+    "Duration": "5:55",
+    "release year":2000,
+    "coverImage":"images/glory_to_the_Lord.jpeg"
+  },
+  "Music2":{
+    "name": "Glory To The Lord",
+    "artist name": "Don Moen",
+    "genre": "Gospel",
+    "Duration": "3:55",
+    "release year":2000,
+    "coverImage":"images/glory_to_the_Lord.jpeg"
+  },
+  "Music3":{
+    "name": "Goodness of God",
+    "artist name": "Cece Williams",
+    "genre": "Gospel",
+    "Duration": "5:00",
+    "release year":2022,
+    "coverImage":"images/glorybelieve_for_it.jpeg"
+  },
+  "Music4":{
+    "name": "Worthy",
+    "artist name": "Cece Williams",
+    "genre": "Gospel",
+    "Duration": "5:27",
+    "release year":2022,
+    "coverImage":"images/believe_for_it.jpeg"
+  },
+  "Music5":{
+    "name": "Open Doors",
+    "artist name": "Ada Ehi",
+    "genre": "Gospel",
+    "Duration": "3:50",
+    "release year":2021,
+    "coverImage":"images/open_doors.jpeg"
+  },
+  "Music6":{
+    "name": "I Will Sing",
+    "artist name": "Ada Ehi",
+    "genre": "Gospel",
+    "Duration": "5:51",
+    "release year":2017,
+    "coverImage":"images/i_will_sing.jpeg"
+  },
+  "Music7":{
+    "name": "Miracle No di Tire Jesus",
+    "artist name": "Moses Bliss",
+    "genre": "Gospel",
+    "Duration": "2:46",
+    "release year":2023,
+    "coverImage":"images/mirale_no_di.jpeg"
+  },
+  "Music8":{
+    "name": "Taking Care",
+    "artist name": "Moses bliss",
+    "genre": "Gospel",
+    "Duration": "3:39",
+    "release year":2021,
+    "coverImage":"images/Taking_care.jpeg"
+  },
+  "Music9":{
+    "name": "You I Live For",
+    "artist name": "Moses Bliss",
+    "genre": "Gospel",
+    "Duration": "5:18",
+    "release year":2023,
+    "coverImage":"images/you_i_live.jpeg"
+  },
+  "Music10":{
+    "name": "Kumama",
+    "artist name": "Grace Lokwa",
+    "genre": "Gospel",
+    "Duration": "4:26",
+    "release year":2022,
+    "coverImage":"images/kumama.jpeg"
+  },
+  "Music11":{
+    "name": "At Last",
+    "artist name": "Cyndi Lauper",
+    "genre": "R&B",
+    "Duration": "2:59",
+    "release year":2003,
+    "coverImage":"images1/kumama.jpeg"
+  },
+  "Music12":{
+    "name": "How Does it Feel",
+    "artist name": "D'Angelo",
+    "genre": "R&B",
+    "Duration": "3:33",
+    "release year":2000,
+    "coverImage":"images1/how_does_it_feel.jpeg"
+  },
+  "Music13":{
+    "name": "Is There More",
+    "artist name": "Drake",
+    "genre": "R&B",
+    "Duration": "3:46",
+    "release year":2018,
+    "coverImage":"images1/is_there_more.jpeg"
+  },
+  "Music14":{
+    "name": "If You had my Love",
+    "artist name": "Jennifer Lopez",
+    "genre": "R&B",
+    "Duration": "4:25",
+    "release year":1999,
+    "coverImage":"images1/if_you_had_m_love.jpeg"
+  },
+  "Music15":{
+    "name": "How we Roll",
+    "artist name": "Chris Brown",
+    "genre": "R&B",
+    "Duration": "3:19",
+    "release year":2012,
+    "coverImage":"images1/how_we_roll.jpeg"
+  },
+  "Music16":{
+    "name": "Look at Me Now",
+    "artist name": "Ciara, Christ Browm",
+    "genre": "R&B",
+    "Duration": "3:48",
+    "release year":2011,
+    "coverImage":"images1/how_we_roll.jpeg"
+  },
+  "Music17":{
+    "name": "Hello",
+    "artist name": "Adele",
+    "genre": "R&B",
+    "Duration": "6:06",
+    "release year":2012,
+    "coverImage":"images1/hello.jpeg"
+  },
+  "Music18":{
+    "name": "Just Give Me a Reason",
+    "artist name": "Pink",
+    "genre": "R&B",
+    "Duration": "4:02",
+    "release year":2013,
+    "coverImage":"images1/Just-Give-Me-a-Reason.jpeg"
+  },
+  "Music19":{
+    "name": "In the Zone ",
+    "artist name": "Britney Spears",
+    "genre": "Pop",
+    "Duration": "3:50",
+    "release year":2003,
+    "coverImage":"images1/is_there_more.jpeg"
+  },
+  "Music20":{
+    "name": "If You Love Me",
+    "artist name": "Brownstone",
+    "genre": "R&B",
+    "Duration": "4:57",
+    "release year":1995,
+    "coverImage":"images1/is_there_more.jpeg"
+  },
+  "Music21":{
+    "name": "Someone Like You",
+    "artist name": "Adele",
+    "genre": "R&B",
+    "Duration": "0:30",
+    "release year":2011,
+    "coverImage":"images1/hello.jpeg"
+  },
+  "Music22":{
+    "name": "Dear-Mama",
+    "artist name": "Tupac Shakur",
+    "genre": "Hip-Hop",
+    "Duration": "4:40",
+    "release year":2009,
+    "coverImage":"images1/is_there_more.jpeg"
+  },
+  "Music23":{
+    "name": "Knock-Life",
+    "artist name": "Jay-Z",
+    "genre": "Hip-Hop",
+    "Duration": "3:58",
+    "release year":1998,
+    "coverImage":"images1/is_there_more.jpeg"
+  },
+  "Music24":{
+    "name": "Rappers Delight",
+    "artist name": "Sugar Hill",
+    "genre": "Hip-Hop",
+    "Duration": "7:07",
+    "release year":1980,
+    "coverImage":"images1/is_there_more.jpeg"
+  },
+  "Music25":{
+    "name": "The Crossroad",
+    "artist name": "Bone Thugs",
+    "genre": "Hip-Hop",
+    "Duration": "3:49",
+    "release year":1999,
+    "coverImage":"images1/is_there_more.jpeg"
+  },
+  "Music26":{
+    "name": "Through The Wire",
+    "artist name": "Ye",
+    "genre": "Hip-Hop",
+    "Duration": "3:41",
+    "release year":2004,
+    "coverImage":"images1/is_there_more.jpeg"
+  }
+}
